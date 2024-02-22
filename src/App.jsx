@@ -6,6 +6,13 @@ import testImg1 from "./assets/imgs/testImg1.jpg";
 import testImg2 from "./assets/imgs/testImg2.jpg";
 import testImg3 from "./assets/imgs/testImg3.jpg";
 import testImg4 from "./assets/imgs/testImg4.jpg";
+import testImg5 from "./assets/imgs/testImg5.PNG";
+import testImg6 from "./assets/imgs/testImg6.PNG";
+import testImg7 from "./assets/imgs/testImg7.PNG";
+import testImg8 from "./assets/imgs/testImg8.PNG";
+import testImg9 from "./assets/imgs/testImg9.PNG";
+import testImg10 from "./assets/imgs/testImg10.PNG";
+import testImg11 from "./assets/imgs/testImg11.PNG";
 import "./components/Test.css";
 import papersIcon from "../src/assets/icons/papersIcon.png";
 import close from "./assets/icons/close.png";
@@ -1441,7 +1448,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg5} />
               <h3>MIS: скрининг нарушений памяти</h3>
               <div className="col">
                 <h4>
@@ -1452,7 +1459,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg6} />
               <h3>6CIT: надежный тест для выявления деменции</h3>
               <div className="col">
                 <h4>
@@ -1463,7 +1470,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg7} />
               <h3>Аризонский опросник для родственников</h3>
               <div className="col">
                 <h4>
@@ -1474,7 +1481,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg8} />
               <h3>Шкала UPDRS-5 (оценка паркинсонизма)</h3>
               <div className="col">
                 <h4>
@@ -1485,7 +1492,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg9} />
               <h3>Субъективная шкала оценки астении (MFI–20)</h3>
               <div className="col">
                 <h4>
@@ -1496,7 +1503,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg10} />
               <h3>Краткая шкала оценки психического статуса (MMSE)</h3>
               <div className="col">
                 <h4>
@@ -1507,7 +1514,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <img src={testImg4} />
+              <img src={testImg11} />
               <h3>Скрининговый тест Mini–Cog</h3>
               <div className="col">
                 <h4>
